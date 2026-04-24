@@ -23,3 +23,5 @@ htmlcov/
 tmp/
 
 # CAD source, generated STEP outputs, and viewer CAD artifacts are tracked via Git LFS in .gitattributes.
+config.bat
+node_modules
